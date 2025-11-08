@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CounterArkadiusz4F", "CounterArkadiusz4F\CounterArkadiusz4F.csproj", "{73B6ABAB-0E59-4DF4-8164-F3F4E3C6FE04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73B6ABAB-0E59-4DF4-8164-F3F4E3C6FE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73B6ABAB-0E59-4DF4-8164-F3F4E3C6FE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73B6ABAB-0E59-4DF4-8164-F3F4E3C6FE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73B6ABAB-0E59-4DF4-8164-F3F4E3C6FE04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F9BB877-15E1-4785-9830-4DF9720F0BDD}
+	EndGlobalSection
+EndGlobal
